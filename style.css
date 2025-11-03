@@ -1,0 +1,78 @@
+
+
+body {
+    background-image:url(Cave\ Enterance.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.message {
+
+    color:rgb(92, 42, 70);
+    font-size: 145%;
+    font-weight: bold;
+    font-family: Papyrus;
+    
+.p1 {
+
+    position: fixed;
+    top: 5%;
+    left: 8%;
+}
+
+.p2 { 
+
+    position: fixed;
+    top: 15%;
+    left: 80%;
+
+
+}
+
+.p3 {
+
+    position: fixed;
+    top: 30%;
+    left: 20%;
+
+}
+
+.p4 {
+
+    position: fixed;
+    top: 45%;
+    left: 39%;
+
+}
+
+.p5 {
+
+    position: fixed;
+    top: 62%;
+    left: 45%;
+
+}
+
+.p6 {
+
+    position: fixed;
+    top: 70%;
+    left: 40%;
+
+}
+
+.p7 {
+    
+    position: fixed;
+    top: 79%;
+    left: 44%;
+
+}
+
+
+
+}
+
