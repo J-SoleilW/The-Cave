@@ -12,7 +12,7 @@ body {
 .message {
 
     color:rgb(92, 42, 70);
-    font-size: 145%;
+    font-size: 135%;
     font-weight: bold;
     font-family: Papyrus;
     
@@ -69,6 +69,22 @@ body {
     position: fixed;
     top: 79%;
     left: 44%;
+
+}
+
+.p8 {
+
+    position: fixed;
+    top: 90%;
+    left: 38%;
+
+}
+
+.p9 {
+
+    position: fixed;
+    top: 95%;
+    left: 43%;
 
 }
 
